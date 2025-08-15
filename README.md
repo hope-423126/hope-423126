@@ -92,6 +92,7 @@ latest trends and advancements.
             <li>Angular</li>
            <li>Vue.js</li>
             <li>Laravel</li>
+            <li>Flutter</li>
         </td>
        <td>
           <li>Firebase</li>
