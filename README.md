@@ -82,16 +82,18 @@ latest trends and advancements.
            <li>PHP</li>
            <li>C#</li>
            <li>C++</li>
+           <li>Go</li>
+           <li>Java</li>
            </ul>
         </td>
         <td valign="top" style="border: 1px solid">
          <li>React</li>
            <li>Next.js</li>
-             <li>React Native</li>
+            <li>React Native</li>
             <li>Angular</li>
-           <li>Vue.js</li>
-            <li>Laravel</li>
+            <li>Vue.js</li>
             <li>Flutter</li>
+            <li>Swift</li>
         </td>
        <td>
           <li>Firebase</li>
@@ -104,6 +106,13 @@ latest trends and advancements.
         <td>
           <li>Node.js</li>
           <li>Nest.js</li>
+          <li>Express.js</li>
+          <li>Laravel</li>
+          <li>Spring Boot</li>
+          <li>Django</li>
+          <li>.NET Core</li>
+          <li>ASP.NET Core</li>
+       
         </td>
     </tbody>
   </table>
