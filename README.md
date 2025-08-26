@@ -1,7 +1,6 @@
 ## Hi there ❤️❤️❤️
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:timothype519@gmail.com)](mailto:timothype519@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-3495eb?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/thomas927423)](https://t.me/thomas927423)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:timothype519@gmail.com)](mailto:s.dream.tech.leader@gmail.com)
 [![Follow](https://img.shields.io/github/followers/hope-423126?label=Follow&style=social)](https://github.com/hope-423126)
 
 <h1 align="center">
