@@ -12,17 +12,12 @@
 <h3><strong>🖋️ Summary</strong></h3>
   <ul>
     <p>
-    Senior Software Engineer with over 11
-years of experience delivering high-impact, innovative web and mobile
-applications. Specialized in building
-Javascript modules, libraries, scalable web and mobile solutions using React, Next.js,Angular, React Native, Laravel, Node.js, Nest.js. Led the development of several websites and
-platforms across various industries,
-including adtech, fintech, and e- commerce, driving significant
-improvements in user engagement and
-retention. Proven expertise in building
-scalable, responsive user interfaces, managing cross-functional teams, and
-integrating third-party solutions. Consistently staying updated with the
-latest trends and advancements.
+   Senior Software Engineer with 7+ years of experience designing, developing, and delivering enterprise-grade web, mobile, and AI-powered applications
+across healthcare, fintech, travel, and SaaS industries. Proven expertise in building secure, scalable full-stack solutions leveraging .NET Core, Java,
+Python (Django), PHP (Laravel), and modern front-end frameworks such as React, Angular, and Vue. Skilled in architecting HIPAA/FDAcompliant platforms, real-time communication systems, and AI/ML-powered engines for medical, financial, and social applications. Experienced in
+building cloud-native, microservices architectures on Azure and AWS, with strong knowledge of Docker, Kubernetes, and DevOps practices. Key
+contributor to mission-critical solutions including AI-driven medical Q&A engines, NFT marketplace SaaS platforms, and AR-based mobile
+experiences. Skilled in Agile collaboration, requirement refinement, and cross-functional team leadership to consistently deliver high-quality, enterprisegrade solutions.
     </p>
   </ul>
 
@@ -32,7 +27,8 @@ latest trends and advancements.
 
 <h3><strong>🥼 Expertise</strong></h3>
   <ul>
-    <li>Front-End Engineering: Over 11 years of experience specializing in building modern, interactive, and scalable web and mobile applications.</li>
+    <li>Front-End Engineering: Over 7+ years of experience specializing in building modern, interactive, and scalable web and mobile applications.</li>
+    <li>Back-End Engineering: Over 7+ years of experience specializing in building modern, interactive, and scalable web and mobile applications.</li>
     <li>UI/UX Engineering: Skilled in creating responsive, user-friendly interfaces using technologies like React, Next.js, Angular, and React Native. </li>
     <li>Design Systems & Styling: Deep experience with CSS-in-JS, Tailwind CSS, SCSS, Material UI, Chakra UI, Ant Design, and Styled Components.
     </li>
@@ -98,7 +94,9 @@ latest trends and advancements.
        <td>
           <li>Firebase</li>
            <li>Supabase</li>
-              <li>AWS Lambda</li>
+              <li>AWS</li>
+         <li>GCP</li>
+         <li>Azure</li>
            <li>Git/Github, GitBucket, GitLab</li>
               <li>Vercel</li>
            <li>Netlify</li>
@@ -112,7 +110,6 @@ latest trends and advancements.
           <li>Django</li>
           <li>.NET Core</li>
           <li>ASP.NET Core</li>
-       
         </td>
     </tbody>
   </table>
