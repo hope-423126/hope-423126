@@ -114,7 +114,7 @@ experiences. Skilled in Agile collaboration, requirement refinement, and cross-f
     </tbody>
   </table>
 </p>
-
+/*
 <h3><strong>🔖 Project</strong></h3>
   <h4><strong>🌐 Web & Mobile</strong></h4>
     <table align="center" style="border: 1px solid">
@@ -268,6 +268,6 @@ experiences. Skilled in Agile collaboration, requirement refinement, and cross-f
           </td>
         </tr>
       </tbody>
-    </table>
+    </table>*/
     
   
