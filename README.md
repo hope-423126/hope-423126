@@ -12,7 +12,7 @@
 <h3><strong>🖋️ Summary</strong></h3>
   <ul>
     <p>
-   Senior Software Engineer with 7+ years of experience designing, developing, and delivering enterprise-grade web, mobile, and AI-powered applications
+   Senior Software Engineer with 8 years of experience designing, developing, and delivering enterprise-grade web, mobile, and AI-powered applications
 across healthcare, fintech, travel, and SaaS industries. Proven expertise in building secure, scalable full-stack solutions leveraging .NET Core, Java,
 Python (Django), PHP (Laravel), and modern front-end frameworks such as React, Angular, and Vue. Skilled in architecting HIPAA/FDAcompliant platforms, real-time communication systems, and AI/ML-powered engines for medical, financial, and social applications. Experienced in
 building cloud-native, microservices architectures on Azure and AWS, with strong knowledge of Docker, Kubernetes, and DevOps practices. Key
@@ -27,14 +27,12 @@ experiences. Skilled in Agile collaboration, requirement refinement, and cross-f
 
 <h3><strong>🥼 Expertise</strong></h3>
   <ul>
-    <li>Front-End Engineering: Over 7+ years of experience specializing in building modern, interactive, and scalable web and mobile applications.</li>
-    <li>Back-End Engineering: Over 7+ years of experience specializing in building modern, interactive, and scalable web and mobile applications.</li>
-    <li>UI/UX Engineering: Skilled in creating responsive, user-friendly interfaces using technologies like React, Next.js, Angular, and React Native. </li>
-    <li>Design Systems & Styling: Deep experience with CSS-in-JS, Tailwind CSS, SCSS, Material UI, Chakra UI, Ant Design, and Styled Components.
+    <li>Full-Stack Engineering: Over 8 years of experience specializing in building modern, interactive, and scalable web and mobile applications.</li>
+    <li>System Design: Proficient in system design including enterprise application architecture, security best practices, workflow automation, and compliance-driven solutions.
     </li>
     <li>Cross-Platform Development: Extensive background in building applications for web and mobile, including real-time features and platform-optimized experiences.
     </li>
-    <li>Team & Project Leadership: Proven ability to lead cross-functional teams, manage feature lifecycles, and deliver results across various industries (adtech, fintech, e-commerce).</li>
+    <li>Team & Project Leadership: Proven ability to lead cross-functional teams, manage feature lifecycles, and deliver results across various industries (healthcare, finance, e-commerce).</li>
   </ul>
 
 <h3><strong>🌟 Specialization</strong></h3>
@@ -80,7 +78,6 @@ experiences. Skilled in Agile collaboration, requirement refinement, and cross-f
            <li>PHP</li>
            <li>C#</li>
            <li>C++</li>
-           <li>Go</li>
            <li>Java</li>
            </ul>
         </td>
