@@ -39,10 +39,12 @@ experiences. Skilled in Agile collaboration, requirement refinement, and cross-f
 
 <h3><strong>🌟 Specialization</strong></h3>
   <ul>
-    <li>JavaScript / TypeScript</li>
-    <li>React Ecosystem ( React, Next.js, Redux/Zustand, React Native )</li>
-      <li>Frameworks & Tools ( Laravel, Angular, GraphQL, Firebase, AWS Lambda, CI/CD, Git/Github )</li>
-         <li>Module & Libraries</li>
+    <li>C# / Python / JavaScript / TypeScript</li>
+    <li>.NET 5+, .NET Core, .NET Framework, ASP.NET Core</li>
+    <li>Angular, React, Vue.js, React Native</li>
+    <li>Microsoft Azure</li>
+      <li>Docker & Kubernetes</li>
+         <li>Jira, Trello</li>
 
   </ul>
 
