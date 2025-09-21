@@ -48,12 +48,12 @@ experiences. Skilled in Agile collaboration, requirement refinement, and cross-f
 
   <h3><strong>📌Serving Industries</strong></h3>
   <ul>
-    <li>Adtech</li>
-    <li>Fintech</li>
-      <li>E-commerce</li>
-         <li>Mobility / Delivery Services</li>
-<li>Real Estate</li>
-         <li>Social & Communication Tools </li>
+    <li>Healthcare</li>
+    <li>Finanace / Banking</li>
+      <li>Insurance</li>
+      <li>Retail & E-Commerce</li>
+      <li>Education & EdTech</li>
+      <li>SaaS</li>
          
 
   </ul>
