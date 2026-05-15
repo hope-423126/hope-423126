@@ -12,7 +12,7 @@
 <h3><strong>🖋️ Summary</strong></h3>
   <ul>
     <p>
-   Senior Software Engineer with 8 years of experience designing, developing, and delivering enterprise-grade web, mobile, and AI-powered applications
+   Senior Software Engineer with 10 years of experience designing, developing, and delivering enterprise-grade web, mobile, and AI-powered applications
 across healthcare, fintech, travel, and SaaS industries. Proven expertise in building secure, scalable full-stack solutions leveraging .NET Core, Java,
 Python (Django), PHP (Laravel), and modern front-end frameworks such as React, Angular, and Vue. Skilled in architecting HIPAA/FDAcompliant platforms, real-time communication systems, and AI/ML-powered engines for medical, financial, and social applications. Experienced in
 building cloud-native, microservices architectures on Azure and AWS, with strong knowledge of Docker, Kubernetes, and DevOps practices. Key
